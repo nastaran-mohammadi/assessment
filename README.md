@@ -4,8 +4,7 @@
 
 ```bash
 ## Clone project
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/nastaran-mohammadi/assessment.git
 
 ## Install dependencies
 npm install
