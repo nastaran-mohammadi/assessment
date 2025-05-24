@@ -1,24 +1,21 @@
 # React Native Assessment Project
 
-This is a React Native app built using Expo as part of an assessment project to demonstrate React Native skills.
-
-## Features
-
-- Built with React Native and Expo
-- Functional components with hooks
-- Supports iOS and Android
-- Clean and modular code structure
-
-## Prerequisites
-
-- Node.js (v14+ recommended)
-- npm (comes with Node.js)
-- Expo CLI (no global install required)
-
-## Getting Started
-
-### 1. Clone the repository
+### Getting Started
 
 ```bash
+## Clone project
 git clone <repository-url>
 cd <repository-folder>
+
+## Install dependencies
+npm install
+
+## Start the Expo development server
+npx expo start
+
+## Project Structure
+/assets         # Images, fonts, and static resources
+/components     # Reusable UI components
+/pages        # App screens and views
+/App.tsx         # Main entry point of the app
+
